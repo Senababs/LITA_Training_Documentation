@@ -38,7 +38,7 @@ The datasets can be excel format or CSV format
       This formula can be used get count number of staffs, number of employees etc.
 
 
-- Structured Query Language (SQL)  Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN)). It is vital for large dataset that write queries in english related language. It is used to:
+- Structured Query Language (SQL) Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN)). It is vital for large dataset that write queries in english related language. It is used to:
    -Create Database
    - Create Table
    - Enter Data
@@ -49,8 +49,9 @@ The datasets can be excel format or CSV format
      - How query written to get all data in the table Lagos_Store
        - [Select * From Lagos_Store]
 
-     
 
+- Github (Join)[https://github.com/)
+     
 
 
 
