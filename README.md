@@ -64,10 +64,10 @@ This site helps to showcase projects and demonstrate skills to enhance career pa
 
 ## Exploratory Data analysis
 Exploratory Data Analysis (EDA) is the process of analyzing data to discover patterns, trends, and relationships. These insights can be used to make informed decisions that propel various businesses forward.
--Here are some examples of insights/trends you might uncover through EDA:
- -Regions with the highest sales
- -Most demanded product/brand
- -Staff with the highest/lowest sales
+- Here are some examples of insights/trends you might uncover through EDA:
+   - Regions with the highest sales
+   - Most demanded product/brand
+   - Staff with the highest/lowest sales
 
 
 ## Conculsion
