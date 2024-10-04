@@ -5,13 +5,21 @@
 ## Project Content
 - Project Title
 - Project Overview
-- Data sources 
-- Applications used
-- Exploratory data analysis
+- Data Sources 
+- Applications Used
+- Exploratory Data Analysis
 
 
 ## Project Overview: 
-This is a documentation of data analysis training with ladies in tech africa by incubator hub. The training involves learning about the applications used in data analysis to generate valuable insight and make decisions for business growth. These tools are: Microsoft Excel (Ms Excel), Structured Query Langauge (SQL), Github and Power Business Intelligence (Powerbi). 
+This is a documentation of data analysis training with ladies in tech africa by incubator hub. The training involves learning about the applications used in data analysis to generate valuable insight and make decisions for business growth. These tools are: Microsoft Excel (Ms Excel), Structured Query Langauge (SQL), Github and Power Business 
+Intelligence (Powerbi). 
+
+## Data Sources
+   - Training Instructor
+   - Personal survey
+   - Kaggle site
+     
+The datasets can be excel format or CSV format
 
 ## Applications Used
 - Microsoft Excel was utilized in the following ways:
@@ -19,7 +27,7 @@ This is a documentation of data analysis training with ladies in tech africa by 
    - Data Inspection: Examining data for errors, inconsistencies, or outliers.
    - Data Analysis: Performing calculations, formulas, and functions to analyze data.
    - Data Visualization using Pivot tables: Creating interactive reports and summaries to visualize data.
-   - Data Transfer to SQL: Exporting data from Excel to a SQL database.
+   - Data Transfer to SQL: Exporting data from Excel to a SQL database or Powerbi.
    - Data Collection from SQL: Importing data from a SQL database into Excel.
    - Data Storage: Saving data in Excel workbooks.
    
@@ -36,12 +44,12 @@ Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) Ms
    - Create Table
    - Enter Data
    - Analyse data
-   - Transfer data to Ms Excel
+   - Transfer data to Ms Excel or Powerbi
    - Collect Data from Ms Excel
    - Store Data
      - How query written to get all data in the table Lagos_Store
        - [Select * From Lagos_Store]
-  
+  Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16&redirectedfrom=MSDN)) SQL SERVER 
 
      
 
