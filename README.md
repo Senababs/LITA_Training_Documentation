@@ -50,7 +50,9 @@ The datasets can be excel format or CSV format
        - [Select * From Lagos_Store]
 
 
-- Github (Join)[https://github.com)
+- Github: This site helps to build portfolio to enhance career path.
+    - Document single and group projects
+- Click to Join [https://github.com)
      
 
 
