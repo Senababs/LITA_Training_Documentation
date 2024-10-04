@@ -3,12 +3,13 @@
 ## Project Title: Learning process at Incubator hub.
 
 ## Project Content
-- Project Title
-- Project Overview
-- Data Sources 
-- Applications Used
-- Exploratory Data Analysis
-- Conclusion
+- [Project Title](#project-title)
+- [Project Content](#project_content)
+- [Project Overview](#project_overview)
+- [Data Sources](#data_sources)
+- [Applications Used](#application_used)
+- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Conclusion](#conclusion)
 
 
 ## Project Overview: 
@@ -42,6 +43,8 @@ The datasets can be excel format or CSV format
    -Create database
    - Create table
    - Enter data
+   - Filtering data
+   - Grouping data
    - Analyse data
    - Transfer data to Ms Excel or Powerbi
    - Collect Data from Ms Excel
