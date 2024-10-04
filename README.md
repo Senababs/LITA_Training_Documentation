@@ -62,12 +62,11 @@ This site helps to showcase projects and demonstrate skills to enhance career pa
    - Import of dataset
 
 ## Exploratory Data analysis
-These are the insights/trends realized from the results of analysis done such as:
+These are the insights/trends realized from the results of analysis done which  helps to make informed decisions to propel various businesses. For examples: 
   - Regions with highest sales
   - Most demand product/brand
   - Staff with highest/lowest sales
-    These helps to make informed decisions to propel various businesses.
-
+    These
 ## Conculsion
 
   
