@@ -13,7 +13,7 @@
 ## Project Overview: 
 This is a documentation of data analysis training with ladies in tech africa by incubator hub. The training involves learning about the applications used in data analysis to generate valuable insight and make decisions for business growth. These tools are: Microsoft Excel (Ms Excel), Structured Query Langauge (SQL), Github and Power Business Intelligence (Powerbi). 
 
-## Data Sources 
+## Applications Used
 - Microsoft Excel was utilized in the following ways
    - Data entry: Entering data into cells and creating tables.
    - Data inspection: Examining data for errors, inconsistencies, or outliers.
@@ -23,11 +23,13 @@ This is a documentation of data analysis training with ladies in tech africa by 
    - Data collection from SQL: Importing data from a SQL database into Excel.
    - Data storage: Saving data in Excel workbooks.
 Examples of how formula is inputted in Ms Excel
-
  ...Microsoft Excel formula
   - =SUM(A1-A5)
-  
 This Formula can be used get total of sales made, income paid, money spent etc.
+
+Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel)
+
+- Structured Query Language (SQL)
 
 
 
