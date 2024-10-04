@@ -12,12 +12,10 @@
 
 
 ## Project Overview: 
-...
 This is a documentation of data analysis training with ladies in tech africa by incubator hub. The training involves learning about the applications used in data analysis to generate valuable insight and make decisions for business growth. These tools are: Microsoft Excel (Ms Excel), Structured Query Langauge (SQL), Github and Power Business 
 Intelligence (Powerbi). 
 
 ## Data Sources
-...
    - Training Instructor
    - Personal survey
    - Kaggle site
@@ -25,7 +23,6 @@ Intelligence (Powerbi).
 The datasets can be excel format or CSV format
 
 ## Applications Used
-...
 - Microsoft Excel Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) It was utilized in the following ways:
    - Data Entry: Entering data into cells and creating tables.
    - Data Inspection: Examining data for errors, inconsistencies, or outliers.
@@ -66,10 +63,11 @@ This site helps to build portfolio to enhance career path.
 
 ## Exploratory Data analysis
 ...
-These are the insights/trends realized from the results of analysis done which helps to make informed decisions to propel various businesses.Such as:
+These are the insights/trends realized from the results of analysis done such as:
   - Regions with highest sales
   - Most demand product/brand
   - Staff with highest/lowest sales
+    These helps to make informed decisions to propel various businesses.
 
 ## Conculsion
 
