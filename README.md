@@ -23,9 +23,11 @@ This is a documentation of data analysis training with ladies in tech africa by 
    - Data collection from SQL: Importing data from a SQL database into Excel.
    - Data storage: Saving data in Excel workbooks.
 Examples of how formula is inputted in Ms Excel
-- ...Microsoft Excel formula
-  =SUM(A1-A5)
 
+ ...Microsoft Excel formula
+  =SUM(A1-A5)
+  
+This Formula can be used get total of sales made, income paid, money spent etc.
 
 
 
