@@ -54,10 +54,8 @@ The datasets can be excel format or CSV format
 - Github: This site helps to build portfolio to enhance career path.
     - Document learning process
     - Document single and group projects
-- Click to Join [https://github.com)
 
-
-- Power Business Intelligence Desktop Click to (Download)[https://www.microsoft.com/en-us/download/details.aspx?id=58494]
+- Power Business Intelligence Desktop Click to  [Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
    - Data Manipulation
    - Data Visualization 
 
@@ -65,3 +63,4 @@ The datasets can be excel format or CSV format
 
 
 
+- Click to Join [https://github.com)
