@@ -1,2 +1,2 @@
 # LITA_Class_Documentation
-The early days of my data analysis journey. Training and Trials
+## Documentation of my learning process at incubator hub.
