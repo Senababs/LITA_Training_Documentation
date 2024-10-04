@@ -1,4 +1,4 @@
-# LITA_Class_Documentation
+,# LITA_Class_Documentation
 
 ## Project Title: Learning process at incubator hub.
 
@@ -32,7 +32,7 @@ This is a documentation of data analysis training with ladies in tech africa by 
 Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) Ms Excel
 
 - Structured Query Language (SQL) is vital for large dataset that write queries in english related language. It is used to:
-   - Create Database
+   -- Create Database
    - Create Table
    - Enter Data
    - Analyse data
