@@ -51,7 +51,8 @@ The datasets can be excel format or CSV format
        - [Select * From Lagos_Store]
 
 
-- Github: This site helps to build portfolio to enhance career path.
+- Github [Join](https://github.com)
+This site helps to build portfolio to enhance career path.
     - Document learning process
     - Document single and group projects
 
