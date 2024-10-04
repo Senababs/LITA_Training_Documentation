@@ -50,7 +50,7 @@ The datasets can be excel format or CSV format
        - [Select * From Lagos_Store]
 
 
-- Github (Join)[https://github.com/)
+- Github (Join)[https://github.com)
      
 
 
