@@ -39,10 +39,9 @@ Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) Ms
    - Transfer data to Ms Excel
    - Collect Data from Ms Excel
    - Store Data
-     How query written to get all data in the table Lagos_Store
-  ...Sql
-    [Select * From Lagos_Store]
-  ...
+     - How query written to get all data in the table Lagos_Store
+       - [Select * From Lagos_Store]
+  
 
      
 
