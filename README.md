@@ -57,7 +57,7 @@ The datasets can be excel format or CSV format
 - Click to Join [https://github.com)
 
 
-- Power Business Intelligence Desktop click (Download)[https://www.microsoft.com/en-us/download/details.aspx?id=58494].
+- Power Business Intelligence Desktop Click to (Download)[https://www.microsoft.com/en-us/download/details.aspx?id=58494]
    - Data Manipulation
    - Data Visualization 
 
