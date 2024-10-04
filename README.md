@@ -25,7 +25,7 @@ This is a documentation of data analysis training with ladies in tech africa by 
 Examples of how formula is inputted in Ms Excel
 
  ...Microsoft Excel formula
-  =SUM(A1-A5)
+  - =SUM(A1-A5)
   
 This Formula can be used get total of sales made, income paid, money spent etc.
 
