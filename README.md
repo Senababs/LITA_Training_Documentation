@@ -22,8 +22,8 @@ This is a documentation of data analysis training with ladies in tech africa by 
    - Data Transfer to SQL: Exporting data from Excel to a SQL database.
    - Data Collection from SQL: Importing data from a SQL database into Excel.
    - Data Storage: Saving data in Excel workbooks.
-     
    - Examples of how formula is inputted in Ms Excel
+   - 
 ...MICROSOFT EXCEL
   =SUM(A1-A5)
 ...
