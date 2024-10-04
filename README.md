@@ -24,9 +24,13 @@ This is a documentation of data analysis training with ladies in tech africa by 
    - Data Storage: Saving data in Excel workbooks.
      
    - Examples of how formula is inputted in Ms Excel
-      - =SUM(A1-A5)
+...MICROSOFT EXCEL
+  =SUM(A1-A5)
+...
       This Formula can be used get total of sales made, income paid, money spent etc.
-      - =COUNT(AI-A5)
+...MIICROSOFT EXCEL
+  =COUNT(AI-A5)
+...
       This formula can be used get count number of staffs, number of employees etc.
 
 Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) Ms Excel
@@ -40,19 +44,8 @@ Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) Ms
    - Collect Data from Ms Excel
    - Store Data
      
-   - Example of how query is written to create database and create table
+
      
-     ...SQL
-     
-     create database WOTM_DB
-     create table Practitioner(
-     Practitionerid varchar (255),
-     First_name varchar (255),
-     Surname varchar (255),
-     Years_of_experience int,
-     Market_location varchar (10)
-     )
-    ...
 
 
 
