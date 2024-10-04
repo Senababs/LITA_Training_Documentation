@@ -39,34 +39,40 @@ The datasets can be excel format or CSV format
       This formula can be used get count number of staffs, number of employees etc.
 
 
- - Structured Query Language (SQL) Click here to [Download](https://www.microsoft.com/en-us/sql-server/sql-server-downloads). It is vital for large dataset that write queries in english related language. It is used to:
-   -Create Database
-   - Create Table
-   - Enter Data
+ - Structured Query Language (SQL) Click here to [Download](https://www.microsoft.com/en-us/sql-server/sql-server-downloads). It is a vital tool for working with large datasets. It allows you to write queries that resemble English to interact with databases. These queries can be used to:
+   -Create database
+   - Create table
+   - Enter data
    - Analyse data
    - Transfer data to Ms Excel or Powerbi
    - Collect Data from Ms Excel
    - Store Data
-     - How query written to get all data in the table Lagos_Store
+     
+     - Here's an example of a simple SQL query that retrieves all data from a table named Lagos_Store
        - Select * From Lagos_Store
 
 
 - Github [Join](https://github.com)
 This site helps to showcase projects and demonstrate skills to enhance career path.
     - Document learning process
-    - Document single and group projects
+    - Document individual and group projects
 
-- Power Business Intelligence Desktop Click to  [Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
-   - Data Manipulation
-   - Data Visualization
-   - Import of dataset
+- Power Business Intelligence Desktop Click to  [Download](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads) It is a free data visualization tool from Microsoft. It allows you to:
+   - Manipulate data
+   - Create data visualizations
+   - Import data set
 
 ## Exploratory Data analysis
-These are the insights/trends realized from the results of analysis done which  helps to make informed decisions to propel various businesses. For examples: 
-  - Regions with highest sales
-  - Most demand product/brand
-  - Staff with highest/lowest sales
-    These
+Exploratory Data Analysis (EDA) is the process of analyzing data to discover patterns, trends, and relationships. These insights can be used to make informed decisions that propel various businesses forward.
+-Here are some examples of insights/trends you might uncover through EDA:
+ -Regions with the highest sales
+ -Most demanded product/brand
+ -Staff with the highest/lowest sales
+
+
 ## Conculsion
+
+
+
 
   
