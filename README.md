@@ -41,7 +41,9 @@ Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) Ms
    - Store Data
      
    - Example of how query is written to create database and create table
+     
      ...SQL
+     
      create database WOTM_DB
      create table Practitioner(
      Practitionerid varchar (255),
