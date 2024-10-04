@@ -22,28 +22,28 @@ This is a documentation of data analysis training with ladies in tech africa by 
    - Data Transfer to SQL: Exporting data from Excel to a SQL database.
    - Data Collection from SQL: Importing data from a SQL database into Excel.
    - Data Storage: Saving data in Excel workbooks.
-   - Examples of how formula is inputted in Ms Excel
-   - 
-...MICROSOFT EXCEL
+   
+   - Examples of how formula is inputted in Ms Excel 
   =SUM(A1-A5)
-...
       This Formula can be used get total of sales made, income paid, money spent etc.
-...MIICROSOFT EXCEL
   =COUNT(AI-A5)
-...
       This formula can be used get count number of staffs, number of employees etc.
 
 Click here to [Download](https://www.microsoft.com/en-us/microsoft-365/excel) Ms Excel
 
 - Structured Query Language (SQL) is vital for large dataset that write queries in english related language. It is used to:
-   -- Create Database
+   -Create Database
    - Create Table
    - Enter Data
    - Analyse data
    - Transfer data to Ms Excel
    - Collect Data from Ms Excel
    - Store Data
+     Query written to get all data in the table Lagos_Store
      
+ ...SQL 
+  Select * From Lagos_Store
+  ...
 
      
 
