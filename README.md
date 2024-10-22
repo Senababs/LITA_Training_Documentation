@@ -32,10 +32,12 @@ The datasets can be excel format or CSV format
    - Data Collection from SQL: Importing data from a SQL database into Excel.
    - Data Storage: Saving data in Excel workbooks.
    
-   - Examples of how formula is inputted in Ms Excel 
-      - =SUM(A1-A5)
+   - Examples of how formula is inputted in Ms Excel
+
+          =SUM(A1-A5)
       This Formula can be used get total of sales made, income paid, money spent etc.
-      - =COUNT(AI-A5)
+     
+          =COUNT(AI-A5)
       This formula can be used get count number of staffs, number of employees etc.
 
 
@@ -51,7 +53,8 @@ The datasets can be excel format or CSV format
    - Store Data
      
      - Here's an example of a simple SQL query that retrieves all data from a table named Lagos_Store
-       - Select * From Lagos_Store
+
+           Select * From Lagos_Store
 
 
 - Github [Join](https://github.com)
